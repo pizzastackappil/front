@@ -1,6 +1,7 @@
 import type { ComponentMeta, ComponentStory } from '@storybook/react';
 
 import { App } from '../App';
+import React from 'react';
 
 
 export default {
