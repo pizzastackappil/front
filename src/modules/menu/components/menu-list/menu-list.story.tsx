@@ -2,6 +2,7 @@ import type { ComponentMeta, ComponentStory } from "@storybook/react";
 
 import React from "react";
 import { MenuList } from "./menu-list.components";
+import pizzaMenu from "@app/mocks/pizza.json"
 
 
 export default {
@@ -9,7 +10,10 @@ export default {
   component: MenuList,
 } as ComponentMeta<typeof MenuList>;
 
-const Template: ComponentStory<typeof MenuList> = () => <MenuList />;
+const Template: ComponentStory<typeof MenuList> = (args) => <MenuList {...args} />;
 
 export const View = Template.bind({});
+View.args = {
+  items:pizzaMenu, 
+}
 
