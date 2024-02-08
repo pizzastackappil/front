@@ -7,7 +7,7 @@ export const  App = () => {
   return (
     <div>
       <Header/>
-      <div className="mx-2 mb-24">
+      <div className="mx-12 mb-24">
        <MenuList items={pizzaMenu}/>
       </div>
       <Footer/>
