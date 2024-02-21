@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "image": "manhattan.jpeg",
-    "weight": 555,
-    "title": "Піца Мангеттен",
-    "ingredients": "(подвійна порція грибів), Гриби, Моцарела, Пепероні, Соус Альфредо",
-    "price": 215
+    "image": "0.jpeg",
+    "weight": 1555,
+    "title": "Luis",
+    "ingredients": "",
+    "price": 215000
   },
   {
     "id": 2,
-    "image": "pepperoni-w-tomatoes.jpeg",
-    "weight": 554,
-    "title": "Піца Пепероні з томатами",
-    "ingredients": "Моцарела, Пепероні, Помідори, Соус Барбекю",
-    "price": 215
+    "image": "1.jpeg",
+    "weight": 1554,
+    "title": "LUIS ALBERTO",
+    "ingredients": "",
+    "price": 215000
   },
   {
     "id": 3,
-    "image": "ham-w-mushrooms.jpeg",
-    "weight": 545,
-    "title": "Піца Шинка та гриби",
-    "ingredients": "Шинка, Гриби, Моцарела, Соус PizzaStack",
-    "price": 215
+    "image": "2.jpeg",
+    "weight": 1545,
+    "title": "Luisito",
+    "ingredients": "",
+    "price": 215000
   },
   {
     "id": 4,
-    "image": "texas.jpeg",
-    "weight": 550,
-    "title": "Піца Техас",
-    "ingredients": "Кукурудза, Цибуля, Гриби, Ковбаски баварські, Моцарела, Соус Барбекю",
-    "price": 215
+    "image": "3.jpeg",
+    "weight": 1550,
+    "title": "Luisao",
+    "ingredients": "",
+    "price": 215000
   },
   {
     "id": 5,
-    "image": "pepperoni.jpeg",
-    "weight": 560,
-    "title": "Піца Пепероні",
-    "ingredients": "Моцарела, Пепероні, Соус PizzaStack",
-    "price": 250
+    "image": "4.jpeg",
+    "weight": 1560,
+    "title": "Lusa",
+    "ingredients": "",
+    "price": 250000
   },
   {
     "id": 6,
-    "image": "margarita.jpeg",
-    "weight": 552,
-    "title": "Піца Маргаріта",
-    "ingredients": "(подвійна порція моцарели), Моцарела, Соус PizzaStack",
-    "price": 250
+    "image": "5.jpeg",
+    "weight": 1552,
+    "title": "Lusjon",
+    "ingredients": "",
+    "price": 250000
   },
   {
     "id": 7,
-    "image": "barbecue.jpeg",
-    "weight": 552,
-    "title": "Піца Барбекю",
-    "ingredients": "Курка, Цибуля, Бекон, Гриби, Моцарела, Соус Барбекю",
-    "price": 255
+    "image": "6.jpeg",
+    "weight": 1552,
+    "title": "Luiza",
+    "ingredients": "",
+    "price": 255000
   },
   {
     "id": 8,
-    "image": "grill-mix.jpeg",
-    "weight": 569,
-    "title": "Піца Гриль Мікс",
+    "image": "7.jpeg",
+    "weight": 1569,
+    "title": "Los Luis",
     "ingredients": "Курка, Фрикадельки, Цибуля, Бекон, Болгарський перець, Моцарела, Соус Барбекю",
-    "price": 250
+    "price": 2500000
   },
   {
     "id": 9,
-    "image": "carbonara.jpeg",
-    "weight": 540,
-    "title": "Піца Карбонара",
-    "ingredients": "Цибуля, Бекон, Шинка, Гриби, Моцарела, Соус Альфредо",
-    "price": 250
+    "image": "9.jpeg",
+    "weight": 1540,
+    "title": "Don Luis",
+    "ingredients": "",
+    "price": 2500000
   }
 ]

@@ -26,7 +26,7 @@ export const MenuItem: React.FC<MenuItemProps> = ({imagePath,title,weight,ingred
       <div className="p-8">
       <h2 className="text-xl font-semibold mb-2">{title}</h2>
         <p className="mb-8">{ingredients}</p>
-        <span className="text-xl font-semibold">{price} грн</span>
+        <span className="text-xl font-semibold">{price} $</span>
       </div>
     </div>
   );
